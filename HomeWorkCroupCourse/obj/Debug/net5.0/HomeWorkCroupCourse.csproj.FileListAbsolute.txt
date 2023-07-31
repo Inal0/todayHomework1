@@ -1,0 +1,5 @@
+C:\Users\inalag\source\repos\HomeWorkCroupCourse\obj\Debug\net5.0\HomeWorkCroupCourse.csproj.AssemblyReference.cache
+C:\Users\inalag\source\repos\HomeWorkCroupCourse\obj\Debug\net5.0\HomeWorkCroupCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inalag\source\repos\HomeWorkCroupCourse\obj\Debug\net5.0\HomeWorkCroupCourse.AssemblyInfoInputs.cache
+C:\Users\inalag\source\repos\HomeWorkCroupCourse\obj\Debug\net5.0\HomeWorkCroupCourse.AssemblyInfo.cs
+C:\Users\inalag\source\repos\HomeWorkCroupCourse\obj\Debug\net5.0\HomeWorkCroupCourse.csproj.CoreCompileInputs.cache
